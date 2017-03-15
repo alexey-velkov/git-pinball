@@ -1,0 +1,16 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6d6d6;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="10.5" cy="10.5" r="10.5"/>
+  <path class="cls-2" d="M11.264,21H7.641V12.832H5.831V10.017h1.81V8.327c0-2.3,1.022-3.662,3.926-3.662h2.418V7.481H12.474c-1.13,0-1.205.393-1.205,1.127l0,1.409H14l-0.32,2.815H11.264V21h0Z"/>
+</svg>
